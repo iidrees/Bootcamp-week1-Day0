@@ -11,3 +11,13 @@ Question 2; "Create a fizzBuzz function that checks for divisibility by 3 and/or
 
 Question 3; "Create an aritGeo function that checks if the array passed as an argument is an arithmetic or geometric progression", the same additional requirements in questions 1 and 2 applies here too.
 
+
+How to Run the tests Using Node.js.
+
+1. Open your Node.js Command Line Interface 
+
+2. you install the Jasmine module using  npm into your node.js library by typing "npm install jasmine" (without the quotes), 
+
+3. then you wait for a couple of minutes while you wait for the module to install. 
+
+4. After installing jasmine, cd to the directory where your project is set up and type "jasmine init" (without the quotes) to initialise jasmine in that directory and then you can run your tests.
